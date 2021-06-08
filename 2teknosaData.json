@@ -79,35 +79,20 @@
         "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/110019335/110019335_0_MC/43976886.jpg",
 		"aciklama" : "islemci i5-1135G7 cekirdekSayisi 4 ekranBoyutu 14 urunRengi Gri ram 8 GB ekranCozunurlugu 1920x1080 pixel depolamaKapasitesi 256GB grafikAdaptorModeli Intel Iris Xe Graphics"
 
-        "ekranBoyutu": "50",
-        "ekranCozunurlugu": "3840 x 2160 piksel",
-        "hdTuru": "4K Ultra HD",
-        "wifi": " Var ",
-        "urunRengi": "Siyah"
+      
       },
       {
         "urunAdi": "Samsung 40T5300",
         "fiyati": "3799 TL",
         "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/110019332/110019332_0_MC/43969210.jpg",
 		"aciklama" : "islemci i5-1135G7 cekirdekSayisi 4 ekranBoyutu 14 urunRengi Gri ram 8 GB ekranCozunurlugu 1920x1080 pixel depolamaKapasitesi 256GB grafikAdaptorModeli Intel Iris Xe Graphics"
-
-        "ekranBoyutu": "40",
-        "ekranCozunurlugu": "1920 x 1080 piksel",
-        "hdTuru": "Full HD",
-        "wifi": " Var ",
-        "urunRengi": "Siyah"
       },
       {
         "urunAdi": "Vestel 55U9500",
         "fiyati": "4399 TL",
         "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/110019291/110019291_0_MC/35727857.jpg",
 		"aciklama" : "islemci i5-1135G7 cekirdekSayisi 4 ekranBoyutu 14 urunRengi Gri ram 8 GB ekranCozunurlugu 1920x1080 pixel depolamaKapasitesi 256GB grafikAdaptorModeli Intel Iris Xe Graphics"
-
-        "ekranBoyutu": "55",
-        "ekranCozunurlugu": "3840 x 2160 piksel",
-        "hdTuru": "4K Ultra HD",
-        "wifi": " Var ",
-        "urunRengi": "Siyah"
+	      
       }
     ]
   },
