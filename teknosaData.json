@@ -1,29 +1,29 @@
 [
   {
     "kategoriAdi": "Bilgisayar",
-    "kategoriResimUrl": "https://lh3.googleusercontent.com/proxy/PKigyIFiEUMAJ2noZB2Cdok4zzCZneJ-i9s5gjzWwAFja3WzOkbD6VRK3FS3gcLofgiMthysD4O056LdRhXhrlO2wNXiig",
+    "kategoriResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/pckapak.png",
     "urunler": [
       {
         "urunAdi": "Lenovo Ideapad 5",
-        "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/200/200/productimage/125034150/125034150_0_MC/53169243.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/pc1.png",
         "fiyati": "6599 TL",
         "aciklama": "islemci i5-1135G7 cekirdekSayisi 4 ekranBoyutu 14 urunRengi Gri ram 8 GB ekranCozunurlugu 1920x1080 pixel depolamaKapasitesi 256GB grafikAdaptorModeli Intel Iris Xe Graphics"
       },
       {
         "urunAdi": "Casper Nirvana C350",
-        "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/200/200/productimage/125036500/125036500_0_MC/53091853.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/pc2.jpg",
         "fiyati": "4579 TL",
         "aciklama": "islemci i3-5005U cekirdekSayisi 2 ekranBoyutu 14 urunRengi Gri ram 4 GB ekranCozunurlugu 1920x1080 pixel depolamaKapasitesi 256GB grafikAdaptorModeli Intel Iris Xe Graphics"
       },
       {
         "urunAdi": "Acer Porsche Desing",
-        "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/200/200/productimage/125037352/125037352_0_MC/50132993.png",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/pc3.jpgg",
         "fiyati": "18999 TL",
         "aciklama": "islemci i5-1135G7 cekirdekSayisi 4 ekranBoyutu 14 urunRengi Gri ram 8 GB ekranCozunurlugu 1920x1080 pixel depolamaKapasitesi 256GB grafikAdaptorModeli Intel Iris Xe Graphics"
       },
       {
         "urunAdi": "Acer A315-23",
-        "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/200/200/productimage/125037350/125037350_0_MC/49763592.png",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/pc4.jpg",
         "fiyati": "3699 TL",
         "aciklama": "islemci i5-1135G7 cekirdekSayisi 4 ekranBoyutu 14 urunRengi Gri ram 8 GB ekranCozunurlugu 1920x1080 pixel depolamaKapasitesi 256GB grafikAdaptorModeli Intel Iris Xe Graphics"
       }
@@ -31,92 +31,80 @@
   },
   {
     "kategoriAdi": "Telefon",
-    "kategoriResimUrl": "data:image/jpeg;base64,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n6MzeTpkW4Q72Ob7XyOtajPd4fk3KLhyHiMacJ1H9I3lBac515MB4aOvjEgte8cobM3mLQ3A/njdWs587MlVdBVwsqwah7NBjODku86beSTa2rG/xxWKuIjc7NmqqfmpmPt3xek5h+pw9/iVI1G8xPU4u/xKkiqahERAREQEREBERAREQEREFqW2lFf2iB16JXxJ2FzeTtNIc2+onm8QrTJmOwvZw1xvwc09X5oPlTsu6iuc/SgBx+QtBto4aWu2kT4ELo94uCF496Ts0amoe2to4jI9g0H07By5G7nNG8gAC3RfG5sHjyLIloqhhLZKeRjhgWSQua4dxCo4vJ7t/wCG7yQWwL4D/lV3LSRYXFwQ9oOPevvF5PdP69B3kr87HvJk4KQOOJAjJa528oLEjMGyAAB2kLA6iLeYVpZb2SODWiJ4DRohuiTvvfrufAKzxeT3b/w3eSC0gV0U8nu3/hu8lI8180coV00QZTSMiDg51TNC5rLA3sLjE9A/yg6BzGAFFBgb43vvOkfyspEsLJVE2mhipm6mNDdd9wH5BZqAiIgIiICIiAiIgIiICIiArE9NHJYSMDraiSQR3hX0QYn2dB7s/iv81RJkqldtQh3ae8/ms5EGE3JlMMBHhzcI8/mqvs6n93/cf5rLRBifZ1P7v+4/zVByTSnHgz+M/wA1nIgw25NpxgI/jI8/mvv2dT+7/uP81logxPs6n93/AHH+auQ00cf7NlufEknvJV9EBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQf/Z",
+    "kategoriResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/telKapak.jpg",
     "urunler": [
       {
         "urunAdi": "Xiaomi Redmi Note 8",
         "fiyati": "2899 TL",
-        "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/125077359/125077359_0_MC/34867488.png",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tel1.png",
         "aciklama": "ekranBoyutu 6.3 ekranCozunurlugu 2340x1080 piksel arkaKameraCozunurlugu 48 MP onKameraCozunurlugu 13 MP isletimSistemi Android 9.0 ram4 GB"
       },
       {
         "urunAdi": "Samsung Galaxy A71",
         "fiyati": "3199 TL",
-        "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/125077512/125077512_0_MC/38237617.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tel2.png",
         "aciklama": "ekranBoyutu 6.3 ekranCozunurlugu 2340x1080 piksel arkaKameraCozunurlugu 48 MP onKameraCozunurlugu 13 MP isletimSistemi Android 9.0 ram4 GB"
       },
       {
         "urunAdi": "Samsung Galaxy A51",
         "fiyati": "2999 TL",
-        "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/125077495/125077495_0_MC/36158771.png",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tel3.png",
         "aciklama": "ekranBoyutu 6.3 ekranCozunurlugu 2340x1080 piksel arkaKameraCozunurlugu 48 MP onKameraCozunurlugu 13 MP isletimSistemi Android 9.0 ram4 GB"
       },
       {
         "urunAdi": "Huawei P40 Lite",
         "fiyati": "3499 TL",
-        "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/125077584/125077584_0_MC/38592535.png",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tel4.png",
         "aciklama": "ekranBoyutu 6.3 ekranCozunurlugu 2340x1080 piksel arkaKameraCozunurlugu 48 MP onKameraCozunurlugu 13 MP isletimSistemi Android 9.0 ram4 GB"
       }
     ]
   },
   {
     "kategoriAdi": "Tv, ses ve görüntü Sis.",
-    "kategoriResimUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_y45U871q0Qw-TG9_FHbZvOrqQafXnX_45w&usqp=CAU",
+    "kategoriResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tvkapak.jpg",
     "urunler": [
       {
         "urunAdi": "Samsung 50TU8500",
         "fiyati": "6699 TL",
-        "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/110019335/110019335_0_MC/43976886.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tv2.jpg",
         "aciklama": "islemci i5-1135G7 cekirdekSayisi 4 ekranBoyutu 14 urunRengi Gri ram 8 GB ekranCozunurlugu 1920x1080 pixel depolamaKapasitesi 256GB grafikAdaptorModeli Intel Iris Xe Graphics",
-        "ekranBoyutu": "50",
-        "ekranCozunurlugu": "3840 x 2160 piksel",
-        "hdTuru": "4K Ultra HD",
-        "wifi": " Var ",
-        "urunRengi": "Siyah"
+
       },
       {
         "urunAdi": "Samsung 40T5300",
         "fiyati": "3799 TL",
-        "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/110019332/110019332_0_MC/43969210.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tv3.jpg",
         "aciklama": "islemci i5-1135G7 cekirdekSayisi 4 ekranBoyutu 14 urunRengi Gri ram 8 GB ekranCozunurlugu 1920x1080 pixel depolamaKapasitesi 256GB grafikAdaptorModeli Intel Iris Xe Graphics",
-        "ekranBoyutu": "40",
-        "ekranCozunurlugu": "1920 x 1080 piksel",
-        "hdTuru": "Full HD",
-        "wifi": " Var ",
-        "urunRengi": "Siyah"
+      
       },
       {
         "urunAdi": "Vestel 55U9500",
         "fiyati": "4399 TL",
-        "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/110019291/110019291_0_MC/35727857.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tv4.jpg",
         "aciklama": "islemci i5-1135G7 cekirdekSayisi 4 ekranBoyutu 14 urunRengi Gri ram 8 GB ekranCozunurlugu 1920x1080 pixel depolamaKapasitesi 256GB grafikAdaptorModeli Intel Iris Xe Graphics",
-        "ekranBoyutu": "55",
-        "ekranCozunurlugu": "3840 x 2160 piksel",
-        "hdTuru": "4K Ultra HD",
-        "wifi": " Var ",
-        "urunRengi": "Siyah"
+ 
       }
     ]
   },
   {
     "kategoriAdi": "Beyaz Eşya",
-    "kategoriResimUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVEhgSFRYYGBgYHBgVEhgaGRoSGBoYGBkZGhgYGBocIS4lHB4rIxgYJjgmKy8xNTU1GiQ7QDs0Py40NzEBDAwMEA8QHhISGDEkJSs0NDQ3PzQ0PzQ+NDE0MTQ0NDQ0PzQ1MTQ9NDQ0NDQxNDQ9NDExNDQ0ND8xMTE0QDoxNP/AABEIAKoBKQMBIgACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAABQQGAgMHAQj/xABIEAACAQICAwoLBAkEAgMAAAABAgADEQQhBRIxBhNBUWFxkZKx0RQiIzJSU3KBobLBQnOCwgcVJDM0YqKz8CVDk9KDlBZj4f/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAGREBAQEBAQEAAAAAAAAAAAAAAAERQTEh/9oADAMBAAIRAxEAPwDs0IQgEIQgEIQgEIQgEIQgEIg0+TvtPP7D/NTkANAt0x1pVQZpxT2ejy1CDzbzWPaB0QLfrjjENccY6ZXVaZh4D/fBxjpEN8X0h0iIg8N8gPFcHIEH3zZKti8fvdTDm+TV0pt/5EqKP6ivRLOTbOBlCK8Ppqk6h1JKnzTbaL2uOTKbxpOnxnoMCbCLv1zQ2GoBz5dsBpegchUS5yHjDaeCAxhI4xaekJmtZSbAi8DbCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIFf3Q/vafs1PmpxcDGG6L97T9mp81OLbwNgMjYxvHo/eH+zWm68S0cSzCgWNzrsbnb5mLGfuUdECwa8N8irROIZqYLEk22nb579w6JMLwJJqTw1ZDapNbVYCbd1jClGkVNiKqsPaRWZT0iPP0k7ot4wy0ENqlceNb7NP7R5280fi4pSf0kYkjD0yPWj+3UiHdrp+piKyM5W4phRYauQdz9YHRdB1f2almfMXhMYLU5T0mVzQtf9npewnZGK4iA3FY+kembNe+RJ6YpSvN6VoDRX/mPw7pO0a16i5k7eLiPEIjSrGuhXvVHMeyBZIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAr26L95T9ip81OLIz3R/vKfsVPmpxXACYgwxyo+2fkxcekxBRP7n2/yYuBM0O3kxzfneeaV0olAKXDNrkhQticuO5Fpr0UfJj2fzvFu61Sy0rBzYtfUBYji5oS+B91dP0KnNZb/NIGG3a0qjpTFGuuuyoGZVCgsbC51uWJMThnOtZKhyO1Gvs5pW9B6OrriaLGlUAFRCSUYAAMLkkjIS/Cbcq4/pIe+GT71fkqSmaae9RfZHaZav0gPfDJ94nyVJT9Kt5Qcw7TIrpOjK1qNMfyJ8ok5K8VYLCvvNNw621ENtUjLVXhvtmaVYDpK0kJVienUkqnUgN0qR3ude9Yey0rFN5YNyzXr/AIW+kC5whCAQhCAQhCAQhCAQhCAQhCAQhCAQhCAQhCAQhCAQhCBXd0n7yn7FT5qcVmNN0n7yn7FT5qcVGB4xlfp/7Pt/kxcfNEKbaPt/kxcDfos+THsj56kMXrkrqEcJa+WWXIc9nBMdGnxB7I+epM6p8YczdqwIzubeYp56jfRBIdR2v5qAcNixPxk50PJ0jvkWtRfi+I74FS3dtfDr94nyVJU9JHynuEum6vRlapRCohY66mwI2BagJ28o6ZXMdoDEmprCi1suFe+BfNHt+y0/uqfyLFtOpGOCQrQpqdUEIikF0BBCKCNsTrcEqQQQSCDtBGRBgMqdSTKTxXSaTaTQGdJ5ZNyJ/aPwt9JVaTS0bjj+0fhb6QL1CEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIFc3SnylL2anzUopLRnuraz0vZqdtOJd8gbGMQo2dLkcA9TFn6xzrxFTPjJ94P7WJgSNGN5McgA/rc/Wbas0aLPie4fM+U3vVo7yKzYhELBmpoUYlwtvMOsL7Vzt9oZQOb7psU6VyqNYZkiwOes3GOSJjjqnp/Be6Mt1h/aPd+ZojvAkHFP6X9K90laMxTjfCGtdChsFHivkw2bCItvJejft+yO2BDqFrkWbaRw2tfm2Wl4xh8tU9t/mMTVK6eCNT1F1tViGsmtrXDBte+sAFDDV2ZxrjW8tU9t/mMtEmkZNpNFlJ5MpPIGlJpadxh/afwN2iU+lUls3DvfEn2G7VgdBhCEAhCEAhCEAhCEAhCEAhCEAhCcm3Y7pK4xlbDMzb0jIUVG3o/u1Ju62Yi7Hht0QOswnEE089rBq//ALVWYvpqzXbfC1i1/CKrsFHnNkCQM9sDuMJwepusw7CzVGI5cRWb8syw+6TDkhULtrWVFV8S1ycgFCrmeCB3aRMVjkpkBte5z8Wm9Tp1FNvfOU06wceYRqmxVnrIynI+MrWINiDmNhBnmMp64sSykC4K1amtbOwuTsz2QOofrmlxVf8Agr/9IfrqlxVf/Xr/APSfPOMbFU8nashztrF1va17XOe0RbidI4mwC1KpNzezMcvFt+aB3TdTjN8ekaaVm1RUDWoVhbWNO21OQ9EShqvqa/8AwVf+k5VgMZiDcO9Tgtdm/mvs/DHGFxVqdTXZ2cral47ZGxz6dXbwXgXXE4/ewC6ulyQuujU7kbQNYC5Fx0xPh9Jo9RNQ3Gupva3+1Wvt55TtJVXst2JzO034BNmintUS3DqH3lHvAu+C0jTWmzM4UXRVLeLdipew48m+BiXTOKpPhsKq1FL0ldWUXPnincHLaN7HSZGwTeTU/wD2IRw5nAqe0mKBWsc6j34bu3ZeBLxdajUJd1BOe1WDW27AeWRGShwKvVqTeMURmGPTftkvBYwMcwD7oChkpcCr1akwUot9UDMWyVhzHMHLkl5w60yM0TqibzSpegnVEDn7KxQ+UtlaxLA55ZC3Ee2NK9a9R3II1mZsxq7STsOzmjvTNGnvLlUUEDgAEqOLbVJbiNxexF75XByIgNaOJU7GGW3MTeuNQGxYDnIiNArEVS9mZfGASmoFwuxdcDgGwDmk5K4VdQkEarL4yUyfGIOsLv5w1cjwAnjgOEx6AXLoBxlgJatwmlaK4olqqKuo4uzqovdTa5O2wPROY08LSF7kkEFbeT2Egmx18jkM5so4amhYq58YAEEU2yHFd/jA+hl3V4AnV8Mw99tt9QZdMY4bHUqn7uoj5X8RlfLjyOyfOGJCVFCu1woAUAUxs4cnvc8J4Y33F6bTR9d6qprl1VGHioAqm5K2Y5kgXgd6xGLp0xeo6IONmC9pmunpGiwDLVpkHMEOpB+MpFLTT4tN/pvVoqzMQqlNYap1SCSpyupOXHMqeNq07+Wd72sH3trcxVAekmBePDaXrE6y9898Lp+mnWXvnONN7qa1CmHVVckkWOqmQBN72N9gyiMfpBxBUtvCZWuC6hs7/ZKX4IHZPCk9NOsO+e+EJ6S9YTj2ht3VXEO6GkiagBBsH1rm3oi0e4DSWIrMUQUxqi7EovDstxwOgti6YIBdAT5oLKCeYXzkmci0np7EUqhpsKdwCcqakEC/JfgPROkbm8S1TB0ajG7MisTszMBrCEIBOH7tyf1niAdgKW99OnO4TiG7Vb6UxPPT/t04ChGHGOmT9G6SfDu70npAuio2+Lr21C5Rlsw9Nrg5HKRaOOo0GDVAhBBCq5sOcSR/8swg+xh+oX/LAp9fQ9ZrqWDW1tUg01U7NUjxgQDnfLLLbG2htG1aVenVSpvYpsWS4WrkfNXVBN8iQb+6O13cYUbEof8AAx+k30v0iUQQqKgJIA1cOozPtS6ZE44wuzVHdndyCxCMBkAoCqBkAAOOevVFjk+w/Ycdom87rqnASPZSmv0mnD11dCV4BmDtGX+ZyChVHYgBiSBsBJIHNnlJGF0VVca60zqnYzOtJD7LOQG9xM36PorbfHFwDqovpONp5h9DxSUmJ16h13sBtYsaacAsLeM3FckbNkCO2h6yqW3vWAzY03SvYcbb2xsOUyMv+f4YxfFhHGowI+y6szC45Gz94a/IZjikVlNUZENaoOU/aHPcdPHA80foBcWWDVjT1LHzN9La1+DWWwFvjGH/AMNakyNTrCrq21gyGjbVBAsdZr31vdaLdD6Q3rF0rmyvrUm4vG1dQ9YKPfL5vhH+3V/437oFbwugKy09QpTfxkbN8vEoLSta3Gob4SLX3JYhzfVQDgAbLouJaxVIvYVBc3N0b6obSnaf0JiKmIqVKVUqj6rC71KZVtWzeKFtYnOEtxofcTi75aluK4v8Xm3D7ksWpzQHmemPzyC+h8dYWrqLcVd1vz3Mtu5WrUSgaeJqqWVyUOvvhZGsbMxOdjfbyS0l3iDQ0DigQDTYXIF98p2F+E+Psjo7jax2Yij/AMlQfkjinjaQFt9U87Do2zemOp+mnWHfIrlmlMSAhpi7Hx9Z7kr4uVludmV9l84hx7ZHn+sebp6RSu65aoNXVtxM2sOfJgffEOPOR5/rAMMhIWykkBTkCeAcQkqoHIAK1GIJN2Ryc7ZDbllPMAzKilSQSqg25hIWI0jWDuBUYAGw2d0DOrowHxvKXO1RTYAe+2ewdM9GiFIFzUU8QpOfiBnwdM0/rKv61/h3Q/WVf1rf090LvE6lhdVdRVqMBsJpuDnmfszZrMalyHA4NZHFuQXGyLTpSv61uhe6T9HYp3W7sWzIzA4PdCL7ueo1RhUelUtfWJSousnnsMiLMpPv5pPfFVreNhzfh1KiMvu1ip+E83M/wdP8fztJWJrWIRRrO3mrsy4WJ4FHHAS6TpisoV6NYBTrDVemM7EZ2fMZxc2jKYFtSuOW1FmHM9yw2nhlmxGkKWHF6jprcOQIB4gDw/GLcRupRsg9QD7s27oCnA4FKLO6jEEuLNrrr5XvlY5SVRx7U316ZqIxGqfJuQRxHIiaa+knI10KVV4bAI3wA+IM8w2LSqpZNoyZTkynlH1gR8Sr1HNSoWYnaWIToC6x6dWdo3J/wOHts3tLdHKT2zj1QTse5T+Bw/3adkBvCEIBOJ7sx/quJ/8AH/bpztk4vuwH+q4nmp/20gcq0tUZq9TWJNmZRyBWIAHJIka47R7NWqG6gF3I2k5sZgmixwsfcLdsBbM8N+8T2l7RGi6OQbbnnNuySMPhUDCyDaOXtgWYxtoIZv7K/micRxue21OZfzQKpjKjDCU9X1Sm/K5XXPb0zVg6tQKddbqzKCSdVgc7c/nbDxckm0zZQhFwL6nCCpzKH/NluKMtCGkgZG3t0cqSlZXZk1QbBGRW1hf0gp5TKK1XxJqU2IUKEqauRJJAU6xYn8MdVtmI5VFva1jqzLS4oltVd7RL3FKkrLrHIeOWCnO2wKL+lNDuStuM6ze7YOzokCbTF7IQbEEkHiItYzrmiNMPVoU6oc+OgYjLJtjD3EEe6cm0suS857BLh+jzF3ovRP2G1l9l9v8AUCfxQLyukKvpn4TYNJVfTMgieMYDD9a1PS+E9Gln/l6IqZ5gasByNJtwqh/CJ74aDtp0z+ARKKs2rVgUDd0ipimUA+OiODwAKm92HGSVz5hxysY/zTz/AFlv/SLTvUo1P5KiH3FWHzNKhj/NPP8AWAwwFO9NPZHZEmMyqv7R7BLHotPIp7I7Iu1fKVfbPYsBTeEc6g4h0Tze14h0CAmMcaGXyYP8zds8NFfRXoE36LXyf43+YwOkbmf4On+P52kbF47eqD4k+c5ITjCLkAPh72knc2P2OmOR/naJt0SE4NLfZDAjlVkYjoVuiAuoKlV11zq1De181UcNztte/Fc3uZu0loquEtSyIIbWBABXZk3vB90W4KqN8BPCCgPKTrLnygjoMsVDEkYeoCdgyHtXBHZ0wEODCI9q761QiwdfFW/ArWILniIGRkapWCVBXp52uKgtq66X1Wy47g+8XkM4K5BDG+sMz2x1Vw4ZFcDIovx1y39RMBjVXizBsQeMEXB6CJ17cv8AwWH+7TsnJEp2poDt1Fv8bfC067ubH7HQ+7T5RAaQhCATje60f6riean/AG6c7JOPbrF/1XEezT/tpAoGM/eP7b/MZpvJmksM61Wup8ZmZbC9wTfK3PNSYGq2ym5/A3baBovM6R8YSWmhMSf9sjnZF7WvJmH3M17gkov4iT8FgbVOUdbnDnU5l/NNVPQR4XA5lJ7SI3wGCWkpAzJ85thPFzCBTgMpg9FD5yq3OPqM/jGSaLcj7XuRvqRNi6FbhL9SmvbUgKVpqvmqq8wAPTt+MCI7XQnGW97017C09Ghl4+mqPy04FaxeBapYK2rbM5a0Y7lsLUoYlGZ7owKONS2TbDfkYCNW0aqZqRy2LN2gTbSw2dgYFpmiq8zRrqCdts+fhkDFVrQCpVmk1pDqV5r32AwFabFrRYKkzWrAhbtk18Mr+g9/cyOvbqykY3YeeXnTo18JVHEmsPwEN9DKVXW7KvGyjpNoDnRQ8insiJq1ZVq1QzAeOdptwCO8AbU1B2gWMxq6MoMxZkBYm5NzmemAmGKT016RDwpPTXpEbfqXD+rHS3fPf1Jh/VjrN3wFHhSemvWEm6Kzo3/mf5jJX6hw3of1P3zMYdUXUUWUXsLk7eUwLvub/hKfM3ztNmKwoYNTOSudYHbqPwG3EfqRwzTufqBcLTBNsm25Dz24ZNashy1lPvBgULHaMei5UqbZ2A8fLb4oPnpfMfaHJwzqGFpPhzesA+0KSQVsdlmF72vtJ2y42Vl1XXWXm1vgZHfA0eDV94cdkDnz02zSmCRfxna4HEbZfAXJ+Be6MwbCmtM7ASbnaATdi3FmSQOXjjx8KgzuPwrn0taYFQBYCw4eEnnMCNXzOWzYByAWHwE6rue/hKH3afKJy1lnU9A/wlH7tPlEBjCEIBOSbsF1dJ1jY+MlI7Cfs24PZnW5zjdno92xZdVB8VVOYXKwttPP0wK0tQ8Ab4L2kTMOeIe9rdgMkJouqduoPxFuwTemh34X6E72+kCIpbjUe4t9RNig+kfcAO0GT00OvCzn3qvYskJomnwrf2mZu02gKyVHnMfe2r2Wgr0zlk/uNTvj6lgaa+aiDmQd0lqltggVIUGtnPRQjRMMWNpOpYRRwXgV/eeSe73H9akvCIvrUbZiAtqJPKCeMOeS6iTGinjCBLdiFsBcnlA7YmxNGsT5n9S98fVcNrrbXKW2FbA/GRW0a/BXb3qjQEDYar6De6x7JiUcbUfqN3R/+r642VUPOluww8FxI4aZ9ziBXS5G0Ec4IgMQOOWHUxI+wh5nI7RMCK/DQvzOrdogJg4dWS/nKy9YEfWV/RWjd8qaxHipYnlbgH193LLytJic8M3VQ/WR8Bo4U6YTh2seNjtP+cUBcuiE5ePbx5zYNDp/N0//AJHS0fpMgkBKNDpxt0junv6mXjbpHdHYSehYCM6GX0m+HdNJ0CCdp/z3Sx6szp04GjAYd0pIgR7AGxA1uE55ZzN3PCGHOrL2iWHBU/Jrl/lzNjU4FSYoTsQnmUmeMBy+4svYRLS9AHbnzyM+jkP2E6q90CtNznpv23ms+0f6foJYm0Wno9BYdhkd9Dpwaw5j3gwEZvxjqn/tOp6C/haP3afKJRDoVeBmHOA3ZadA0ZS1aFNNuqiDi2KIEuEIQCVXT6+X/CJapHrYdGNyqk8ZAMCl6kyCiXDwOn6tOqO6BwNL1adRe6BULrAVVlt8AperTqL3TwYCl6tOovdArAqCbabXEsvgdP1adUd09XC0/QXqiBTFXVWepWssuBwdP1adUd0BgKXq06i90Ck1KlxNZS4MvPgFL1adRe6e+AUvVp1F7oHPHSeU6WYnQvAKXq06i90BgKXq06i90CnLSuJ42Hl0GEp+gnVE98Ep+gnVECkeDzJaJ4zLr4JT9BOqJ74LT9BeqIFNWk3HNyUzLd4LT9BeqJr8HT0V6BArqIZXyk6N4Onor0CafAKXq06i90ChBZ6Fl88AperTqL3Q8AperTqL3QKKFnurL14BS9WnUXunvgFL1adRe6BRNSbKSy7+AUvVp1F7pkMDS9WnUXugJcEvk1mxljajRXV80dAme8r6I6BAS73MHpiPDRX0R0Cebwvor0CBXTPCJYvB09FegTHwdPRXoECvEDilmw/mL7I7Jr8GT0F6okgQMoQhA//Z",
+    "kategoriResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/kapak_beyaz.jpg",
     "urunler": [
       {
         "urunAdi": "LG GR-F802HLHU Buzdolabı",
-        "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/115080217/115080217_0_MC/44180911.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/beyazesya1.jpg",
         "fiyati": " 8199 TL",
         "aciklama": " 201 litre net kapasiteli buzdolabı, yıllık enerji tüketimi 363 kWh"
       },
       {
         "urunAdi": "Bosch HBF534EH1T Fırın",
-        "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/115122991/115122991_0_MC/43563282.png",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/beyazesya2.jpg",
         "fiyati": "2609 TL",
         "aciklama": " 8 programlı, A enerji sınıflı gri ankastre fırın"
       },
       {
         "urunAdi": "Altus AL",
-        "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/115010524/115010524_0_MC/14857639.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/beyaz_esya3.jpg",
         "fiyati": "1109 TL",
         "aciklama": " A enerji sınıflı, 86 litre net kapasiteli 2 raflı mini buzdolabı"
       }
@@ -124,23 +112,23 @@
   },
   {
     "kategoriAdi": "Elektrikli Ev Aletleri",
-    "kategoriResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/115049452/115049452_1_MC/34579537.jpg",
+    "kategoriResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/evaletler2.jpg",
     "urunler": [
       {
         "urunAdi": "Philips XB9155/07 Marathon ",
-        "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/115049452/115049452_1_MC/34579537.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/evaletler2.jpg",
         "fiyati": " 3499TL",
         "aciklama": "2.2l toz kapasitesine sahip, 78dblik gürültü seviyesi olan süpürge makinesi"
       },
       {
         "urunAdi": "Philips GC4909/60 Azur  ",
-        "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/120170786/120170786_8_MC/27510887.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/evaletler3.jpg",
         "fiyati": " 799 TL",
         "aciklama": "0.3 l su tankı kapasitesi , 3000 w güce sahip buharlı ütü"
       },
       {
         "urunAdi": "Arzum AR1092 Mano El Blender Seti ",
-        "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/120020407/120020407_0_MC/8803277013042_1550123003099.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/evaletler4.jpg",
         "fiyati": " 299 TL",
         "aciklama": "1700 W 800 ml. kapasiteli parçalama haznesi 600 ml, paslanmaz çelik, 2 bıçağa sahiptir."
       }
@@ -148,23 +136,23 @@
   },
   {
     "kategoriAdi": "Kişisel Bakım",
-    "kategoriResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/120240917/120240917_0_MC/31989412.jpg",
+    "kategoriResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/kapak_and_phlips_2.jpg",
     "urunler": [
       {
         "urunAdi": "Philips MG5740/15 12in 1 Erkek Bakım Seti",
-        "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/120240917/120240917_0_MC/31989412.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/kapak_and_phlips_2.jpg",
         "fiyati": " 439TL",
         "aciklama": "12 aparatlı, Hassas tıraş başlığı,Şarj başına 80 dakikaya kadar kablosuz kullanım"
       },
       {
         "urunAdi": "Philips MG7715/15 13ü 1 Arada Yüz,Saç Vücut Bakım Seti",
-        "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/120240981/120240981_0_MC/22125958.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/phlips_3.jpg",
         "fiyati": " 539TL",
         "aciklama": "12 aparatlı, Hassas tıraş başlığı,Şarj başına 80 dakikaya kadar kablosuz kullanım"
       },
       {
         "urunAdi": "Philips MG3730/15 8 in 1 Erkek Bakım Kiti",
-        "urunResimUrl": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/120240884/120240884_0_MC/32744907.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/phlips_4.jpg",
         "fiyati": " 249TL",
         "aciklama": "12 aparatlı, Hassas tıraş başlığı,Şarj başına 80 dakikaya kadar kablosuz kullanım"
       }
