@@ -7,25 +7,26 @@
         "urunAdi": "Lenovo Ideapad 5",
         "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/pc1.jpg",
         "fiyati": "6599 TL",
-        "aciklama": "islemci i5-1135G7 cekirdekSayisi 4 ekranBoyutu 14 urunRengi Gri ram 8 GB ekranCozunurlugu 1920x1080 pixel depolamaKapasitesi 256GB grafikAdaptorModeli Intel Iris Xe Graphics"
+        "aciklama" : "İşlemci: i5-1135G7 Çekirdek Sayısı: 4 Ekran Boyutu: 14 Ürün Rengi: Gri Ram : 8 GB Ekran Çözünürlüğü: 1920x1080 pixel Depolama Kapasitesi : 256GB Grafik Adaptör Modeli : Intel Iris Xe Graphics"
+
       },
       {
         "urunAdi": "Casper Nirvana C350",
         "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/pc2.jpg",
         "fiyati": "4579 TL",
-        "aciklama": "islemci i3-5005U cekirdekSayisi 2 ekranBoyutu 14 urunRengi Gri ram 4 GB ekranCozunurlugu 1920x1080 pixel depolamaKapasitesi 256GB grafikAdaptorModeli Intel Iris Xe Graphics"
+       "aciklama" : "İşlemci: i3-5005U Çekirdek Sayısı: 2 Ekran Boyutu: 14 Ürün Rengi: Gri Ram : 4 GB Ekran Çözünürlüğü: 1920x1080 pixel Depolama Kapasitesi : 256GB Grafik Adaptör Modeli : Intel Iris Xe Graphics"
       },
       {
         "urunAdi": "Acer Porsche Desing",
         "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/pc3.png",
         "fiyati": "18999 TL",
-        "aciklama": "islemci i5-1135G7 cekirdekSayisi 4 ekranBoyutu 14 urunRengi Gri ram 8 GB ekranCozunurlugu 1920x1080 pixel depolamaKapasitesi 256GB grafikAdaptorModeli Intel Iris Xe Graphics"
+"aciklama" : "İşlemci: i3-5005U Çekirdek Sayısı: 2 Ekran Boyutu: 14 Ürün Rengi: Gri Ram : 4 GB Ekran Çözünürlüğü: 1920x1080 pixel Depolama Kapasitesi : 256GB Grafik Adaptör Modeli : Intel Iris Xe Graphics"
       },
       {
         "urunAdi": "Acer A315-23",
         "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/pc4.png",
         "fiyati": "3699 TL",
-        "aciklama": "islemci i5-1135G7 cekirdekSayisi 4 ekranBoyutu 14 urunRengi Gri ram 8 GB ekranCozunurlugu 1920x1080 pixel depolamaKapasitesi 256GB grafikAdaptorModeli Intel Iris Xe Graphics"
+		"aciklama" : "İşlemci: i5-1135G7 Çekirdek Sayısı: 4 Ekran Boyutu: 14 Ürün Rengi: Gri Ram : 8 GB Ekran Çözünürlüğü: 1920x1080 pixel Depolama Kapasitesi : 256GB Grafik Adaptör Modeli : Intel Iris Xe Graphics"
       }
     ]
   },
@@ -37,25 +38,29 @@
         "urunAdi": "Xiaomi Redmi Note 8",
         "fiyati": "2899 TL",
         "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tel1.png",
-        "aciklama": "ekranBoyutu 6.3 ekranCozunurlugu 2340x1080 piksel arkaKameraCozunurlugu 48 MP onKameraCozunurlugu 13 MP isletimSistemi Android 9.0 ram4 GB"
+		    "aciklama" : "Ekran Boyutu: 6.3 Ekran Çözünürlüğü: 2340x1080 piksel Arka Kamera Çözünürlüğü : 48 MP Ön Kamera Çözünürlüğü : 13 MP İşletim Sistemi : Android 9.0 Ram :4 GB"
+
       },
       {
         "urunAdi": "Samsung Galaxy A71",
         "fiyati": "3199 TL",
         "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tel2.jpg",
-        "aciklama": "ekranBoyutu 6.3 ekranCozunurlugu 2340x1080 piksel arkaKameraCozunurlugu 48 MP onKameraCozunurlugu 13 MP isletimSistemi Android 9.0 ram4 GB"
+      	"aciklama" : "Ekran Boyutu: 6.3 Ekran Çözünürlüğü: 2340x1080 piksel Arka Kamera Çözünürlüğü : 48 MP Ön Kamera Çözünürlüğü : 13 MP İşletim Sistemi : Android 9.0 Ram :4 GB"
+
       },
       {
         "urunAdi": "Samsung Galaxy A51",
         "fiyati": "2999 TL",
         "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tel3.png",
-        "aciklama": "ekranBoyutu 6.3 ekranCozunurlugu 2340x1080 piksel arkaKameraCozunurlugu 48 MP onKameraCozunurlugu 13 MP isletimSistemi Android 9.0 ram4 GB"
+       	"aciklama" : "Ekran Boyutu: 6.3 Ekran Çözünürlüğü: 2340x1080 piksel Arka Kamera Çözünürlüğü : 48 MP Ön Kamera Çözünürlüğü : 13 MP İşletim Sistemi : Android 9.0 Ram :4 GB"
+
       },
       {
         "urunAdi": "Huawei P40 Lite",
         "fiyati": "3499 TL",
         "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tel4.png",
-        "aciklama": "ekranBoyutu 6.3 ekranCozunurlugu 2340x1080 piksel arkaKameraCozunurlugu 48 MP onKameraCozunurlugu 13 MP isletimSistemi Android 9.0 ram4 GB"
+   		  "aciklama" : "Ekran Boyutu: 6.3 Ekran Çözünürlüğü: 2340x1080 piksel Arka Kamera Çözünürlüğü : 48 MP Ön Kamera Çözünürlüğü : 13 MP İşletim Sistemi : Android 9.0 Ram :4 GB"
+
       }
     ]
   },
@@ -67,19 +72,22 @@
         "urunAdi": "Samsung 50TU8500",
         "fiyati": "6699 TL",
         "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tv2.jpg",
-        "aciklama": "islemci i5-1135G7 cekirdekSayisi 4 ekranBoyutu 14 urunRengi Gri ram 8 GB ekranCozunurlugu 1920x1080 pixel depolamaKapasitesi 256GB grafikAdaptorModeli Intel Iris Xe Graphics"
+        		"aciklama" : "Ekran Boyutu: 6.3 Ekran Çözünürlüğü: 2340x1080 piksel Arka Kamera Çözünürlüğü : 48 MP Ön Kamera Çözünürlüğü : 13 MP İşletim Sistemi : Android 9.0 Ram :4 GB"
+
       },
       {
         "urunAdi": "Samsung 40T5300",
         "fiyati": "3799 TL",
         "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tv3.jpg",
-        "aciklama": "islemci i5-1135G7 cekirdekSayisi 4 ekranBoyutu 14 urunRengi Gri ram 8 GB ekranCozunurlugu 1920x1080 pixel depolamaKapasitesi 256GB grafikAdaptorModeli Intel Iris Xe Graphics"
+        "aciklama" : "Ekran Boyutu: 6.3 Ekran Çözünürlüğü: 2340x1080 piksel Arka Kamera Çözünürlüğü : 48 MP Ön Kamera Çözünürlüğü : 13 MP İşletim Sistemi : Android 9.0 Ram :4 GB"
+
       },
       {
         "urunAdi": "Vestel 55U9500",
         "fiyati": "4399 TL",
         "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tv4.jpg",
-        "aciklama": "islemci i5-1135G7 cekirdekSayisi 4 ekranBoyutu 14 urunRengi Gri ram 8 GB ekranCozunurlugu 1920x1080 pixel depolamaKapasitesi 256GB grafikAdaptorModeli Intel Iris Xe Graphics"
+		"aciklama" : "İşlemci : i5-1135G7 Çekirdek Sayısı: 4 Ekran Boyutu: 14 Ürün Rengi: Gri Ram : 8 GB Ekran Çözünürlüğü: 1920x1080 pixel Depolama Kapasitesi : 256GB Grafik Adaptör Modeli : Intel Iris Xe Graphics"
+
       }
     ]
   },
