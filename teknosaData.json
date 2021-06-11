@@ -5,7 +5,7 @@
     "urunler": [
       {
         "urunAdi": "Lenovo Ideapad 5",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/pc1.png",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/pc1.jpg",
         "fiyati": "6599 TL",
         "aciklama": "islemci i5-1135G7 cekirdekSayisi 4 ekranBoyutu 14 urunRengi Gri ram 8 GB ekranCozunurlugu 1920x1080 pixel depolamaKapasitesi 256GB grafikAdaptorModeli Intel Iris Xe Graphics"
       },
@@ -17,13 +17,13 @@
       },
       {
         "urunAdi": "Acer Porsche Desing",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/pc3.jpgg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/pc3.png",
         "fiyati": "18999 TL",
         "aciklama": "islemci i5-1135G7 cekirdekSayisi 4 ekranBoyutu 14 urunRengi Gri ram 8 GB ekranCozunurlugu 1920x1080 pixel depolamaKapasitesi 256GB grafikAdaptorModeli Intel Iris Xe Graphics"
       },
       {
         "urunAdi": "Acer A315-23",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/pc4.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/pc4.png",
         "fiyati": "3699 TL",
         "aciklama": "islemci i5-1135G7 cekirdekSayisi 4 ekranBoyutu 14 urunRengi Gri ram 8 GB ekranCozunurlugu 1920x1080 pixel depolamaKapasitesi 256GB grafikAdaptorModeli Intel Iris Xe Graphics"
       }
@@ -42,7 +42,7 @@
       {
         "urunAdi": "Samsung Galaxy A71",
         "fiyati": "3199 TL",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tel2.png",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tel2.jpg",
         "aciklama": "ekranBoyutu 6.3 ekranCozunurlugu 2340x1080 piksel arkaKameraCozunurlugu 48 MP onKameraCozunurlugu 13 MP isletimSistemi Android 9.0 ram4 GB"
       },
       {
@@ -95,7 +95,7 @@
       },
       {
         "urunAdi": "Bosch HBF534EH1T Fırın",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/beyazesya2.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/beyazesya2.png",
         "fiyati": "2609 TL",
         "aciklama": " 8 programlı, A enerji sınıflı gri ankastre fırın"
       },
@@ -119,13 +119,13 @@
       },
       {
         "urunAdi": "Philips GC4909/60 Azur  ",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/evaletler3.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/evaletleri3.jpg",
         "fiyati": " 799 TL",
         "aciklama": "0.3 l su tankı kapasitesi , 3000 w güce sahip buharlı ütü"
       },
       {
         "urunAdi": "Arzum AR1092 Mano El Blender Seti ",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/evaletler4.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/evaletleri4.jpg",
         "fiyati": " 299 TL",
         "aciklama": "1700 W 800 ml. kapasiteli parçalama haznesi 600 ml, paslanmaz çelik, 2 bıçağa sahiptir."
       }
