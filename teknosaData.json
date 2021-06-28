@@ -1,30 +1,30 @@
 [
   {
     "kategoriAdi": "Bilgisayar",
-    "kategoriResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/pckapak.png",
+    "kategoriResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/pckapak.png",
     "urunler": [
       {
         "urunAdi": "Lenovo Ideapad 5",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/pc1.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/pc1.jpg",
         "fiyati": "6599 TL",
         "aciklama" : "İşlemci: i5-1135G7 Çekirdek Sayısı: 4 Ekran Boyutu: 14 Ürün Rengi: Gri Ram : 8 GB Ekran Çözünürlüğü: 1920x1080 pixel Depolama Kapasitesi : 256GB Grafik Adaptör Modeli : Intel Iris Xe Graphics"
 
       },
       {
         "urunAdi": "Casper Nirvana C350",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/pc2.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/pc2.jpg",
         "fiyati": "4579 TL",
        "aciklama" : "İşlemci: i3-5005U Çekirdek Sayısı: 2 Ekran Boyutu: 14 Ürün Rengi: Gri Ram : 4 GB Ekran Çözünürlüğü: 1920x1080 pixel Depolama Kapasitesi : 256GB Grafik Adaptör Modeli : Intel Iris Xe Graphics"
       },
       {
         "urunAdi": "Acer Porsche Desing",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/pc3.png",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/pc3.png",
         "fiyati": "18999 TL",
 "aciklama" : "İşlemci: i3-5005U Çekirdek Sayısı: 2 Ekran Boyutu: 14 Ürün Rengi: Gri Ram : 4 GB Ekran Çözünürlüğü: 1920x1080 pixel Depolama Kapasitesi : 256GB Grafik Adaptör Modeli : Intel Iris Xe Graphics"
       },
       {
         "urunAdi": "Acer A315-23",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/pc4.png",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/pc4.png",
         "fiyati": "3699 TL",
 		"aciklama" : "İşlemci: i5-1135G7 Çekirdek Sayısı: 4 Ekran Boyutu: 14 Ürün Rengi: Gri Ram : 8 GB Ekran Çözünürlüğü: 1920x1080 pixel Depolama Kapasitesi : 256GB Grafik Adaptör Modeli : Intel Iris Xe Graphics"
       }
@@ -32,33 +32,33 @@
   },
   {
     "kategoriAdi": "Telefon",
-    "kategoriResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/telKapak.jpg",
+    "kategoriResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/telKapak.jpg",
     "urunler": [
       {
         "urunAdi": "Xiaomi Redmi Note 8",
         "fiyati": "2899 TL",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tel1.png",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/tel1.png",
 		    "aciklama" : "Ekran Boyutu: 6.3 Ekran Çözünürlüğü: 2340x1080 piksel Arka Kamera Çözünürlüğü : 48 MP Ön Kamera Çözünürlüğü : 13 MP İşletim Sistemi : Android 9.0 Ram :4 GB"
 
       },
       {
         "urunAdi": "Samsung Galaxy A71",
         "fiyati": "3199 TL",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tel2.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/tel2.jpg",
       	"aciklama" : "Ekran Boyutu: 6.3 Ekran Çözünürlüğü: 2340x1080 piksel Arka Kamera Çözünürlüğü : 48 MP Ön Kamera Çözünürlüğü : 13 MP İşletim Sistemi : Android 9.0 Ram :4 GB"
 
       },
       {
         "urunAdi": "Samsung Galaxy A51",
         "fiyati": "2999 TL",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tel3.png",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/tel3.png",
        	"aciklama" : "Ekran Boyutu: 6.3 Ekran Çözünürlüğü: 2340x1080 piksel Arka Kamera Çözünürlüğü : 48 MP Ön Kamera Çözünürlüğü : 13 MP İşletim Sistemi : Android 9.0 Ram :4 GB"
 
       },
       {
         "urunAdi": "Huawei P40 Lite",
         "fiyati": "3499 TL",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tel4.png",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/tel4.png",
    		  "aciklama" : "Ekran Boyutu: 6.3 Ekran Çözünürlüğü: 2340x1080 piksel Arka Kamera Çözünürlüğü : 48 MP Ön Kamera Çözünürlüğü : 13 MP İşletim Sistemi : Android 9.0 Ram :4 GB"
 
       }
@@ -66,26 +66,26 @@
   },
   {
     "kategoriAdi": "Tv, ses ve görüntü Sis.",
-    "kategoriResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tvkapak.jpg",
+    "kategoriResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/tvkapak.jpg",
     "urunler": [
       {
         "urunAdi": "Samsung 50TU8500",
         "fiyati": "6699 TL",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tv2.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/tv2.jpg",
         		"aciklama" : "Ekran Boyutu: 6.3 Ekran Çözünürlüğü: 2340x1080 piksel Arka Kamera Çözünürlüğü : 48 MP Ön Kamera Çözünürlüğü : 13 MP İşletim Sistemi : Android 9.0 Ram :4 GB"
 
       },
       {
         "urunAdi": "Samsung 40T5300",
         "fiyati": "3799 TL",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tv3.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/tv3.jpg",
         "aciklama" : "Ekran Boyutu: 6.3 Ekran Çözünürlüğü: 2340x1080 piksel Arka Kamera Çözünürlüğü : 48 MP Ön Kamera Çözünürlüğü : 13 MP İşletim Sistemi : Android 9.0 Ram :4 GB"
 
       },
       {
         "urunAdi": "Vestel 55U9500",
         "fiyati": "4399 TL",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/tv4.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/tv4.jpg",
 		"aciklama" : "İşlemci : i5-1135G7 Çekirdek Sayısı: 4 Ekran Boyutu: 14 Ürün Rengi: Gri Ram : 8 GB Ekran Çözünürlüğü: 1920x1080 pixel Depolama Kapasitesi : 256GB Grafik Adaptör Modeli : Intel Iris Xe Graphics"
 
       }
@@ -93,23 +93,23 @@
   },
   {
     "kategoriAdi": "Beyaz Eşya",
-    "kategoriResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/kapak_beyaz.jpg",
+    "kategoriResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/kapak_beyaz.jpg",
     "urunler": [
       {
         "urunAdi": "LG GR-F802HLHU Buzdolabı",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/beyazesya1.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/beyazesya1.jpg",
         "fiyati": " 8199 TL",
         "aciklama": " 201 litre net kapasiteli buzdolabı, yıllık enerji tüketimi 363 kWh"
       },
       {
         "urunAdi": "Bosch HBF534EH1T Fırın",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/beyazesya2.png",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/beyazesya2.png",
         "fiyati": "2609 TL",
         "aciklama": " 8 programlı, A enerji sınıflı gri ankastre fırın"
       },
       {
         "urunAdi": "Altus AL",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/beyaz_esya3.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/beyaz_esya3.jpg",
         "fiyati": "1109 TL",
         "aciklama": " A enerji sınıflı, 86 litre net kapasiteli 2 raflı mini buzdolabı"
       }
@@ -117,23 +117,23 @@
   },
   {
     "kategoriAdi": "Elektrikli Ev Aletleri",
-    "kategoriResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/evaletler2.jpg",
+    "kategoriResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/evaletler2.jpg",
     "urunler": [
       {
         "urunAdi": "Philips XB9155/07 Marathon ",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/evaletler2.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/evaletler2.jpg",
         "fiyati": " 3499TL",
         "aciklama": "2.2l toz kapasitesine sahip, 78dblik gürültü seviyesi olan süpürge makinesi"
       },
       {
         "urunAdi": "Philips GC4909/60 Azur  ",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/evaletleri3.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/evaletleri3.jpg",
         "fiyati": " 799 TL",
         "aciklama": "0.3 l su tankı kapasitesi , 3000 w güce sahip buharlı ütü"
       },
       {
         "urunAdi": "Arzum AR1092 Mano El Blender Seti ",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/evaletleri4.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/evaletleri4.jpg",
         "fiyati": " 299 TL",
         "aciklama": "1700 W 800 ml. kapasiteli parçalama haznesi 600 ml, paslanmaz çelik, 2 bıçağa sahiptir."
       }
@@ -141,23 +141,23 @@
   },
   {
     "kategoriAdi": "Kişisel Bakım",
-    "kategoriResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/kapak_and_phlips_2.jpg",
+    "kategoriResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/kapak_and_phlips_2.jpg",
     "urunler": [
       {
         "urunAdi": "Philips MG5740/15 12in 1 Erkek Bakım Seti",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/kapak_and_phlips_2.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/kapak_and_phlips_2.jpg",
         "fiyati": " 439TL",
         "aciklama": "12 aparatlı, Hassas tıraş başlığı,Şarj başına 80 dakikaya kadar kablosuz kullanım"
       },
       {
         "urunAdi": "Philips MG7715/15 13ü 1 Arada Yüz,Saç Vücut Bakım Seti",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/phlips_3.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/phlips_3.jpg",
         "fiyati": " 539TL",
         "aciklama": "12 aparatlı, Hassas tıraş başlığı,Şarj başına 80 dakikaya kadar kablosuz kullanım"
       },
       {
         "urunAdi": "Philips MG3730/15 8 in 1 Erkek Bakım Kiti",
-        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/h5190032barancananac_teknosa/main/phlips_4.jpg",
+        "urunResimUrl": "https://raw.githubusercontent.com/baranac12/teknosaData/main/phlips_4.jpg",
         "fiyati": " 249TL",
         "aciklama": "12 aparatlı, Hassas tıraş başlığı,Şarj başına 80 dakikaya kadar kablosuz kullanım"
       }
